@@ -1,0 +1,77 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+p, li {
+    font-family: monospace;
+    font-size: 1.5em;
+    font-weight: 500;
+}
+
+.avatar {
+    width: 100px;
+    height: 100px;;
+    border-radius: 50%;
+    vertical-align: middle;
+    float: left;
+    display: inline;
+    margin-right: 15px;;
+}
+
+ul {
+    list-style: none;
+}
+
+.block {
+    margin-left: 15px;
+}
+.school li {
+    padding-top: 15px;
+}
+
+.work-before li {
+    padding-top: 15px;
+}
+
+.title {
+    /* margin-bottom: 50px; */
+    display: inline-block;
+}
+
+.title h4 {
+    text-align: center;
+}
+
+.highlight {
+    background: #fff;
+    color: black;
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 600;
+    padding: 5px;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.7em;
+}
+
+.python {
+    background-color: #1565c0;
+    color: white;
+}
+
+.js {
+    background-color: #d84315;
+    color: white;
+}
+
+.arduino {
+    background-color: #00897b;
+    color: white;
+}
+
+.lua {
+    background-color: #1a237e;
+    color: white;
+}
